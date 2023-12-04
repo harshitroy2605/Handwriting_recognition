@@ -1,5 +1,5 @@
 # Handwriting_recognition
 
 
-https://github.com/harshitroy2605/Handwriting_recognition/assets/39564115/770e3180-ee7f-4055-a5dd-ab5aaa4e140c
+https://github.com/harshitroy2605/Handwriting_recognition/assets/39564115/8657d56c-36c4-41eb-8b6e-f3086d733719
 
